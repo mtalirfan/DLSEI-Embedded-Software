@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name>
- * @brief <Add Brief Description Here >
+ * @file stats.c
+ * @brief Implementation file for stats.c
  *
- * <Add Extended Description Here>
+ * This file contains the implementation of the functions used in stats.c
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author mtalirfan
+ * @date 02/01/2025
  *
  */
 
